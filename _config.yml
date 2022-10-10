@@ -1,5 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
 title: "Хакатон-2022" # the name of your site, e.g. ACME Corp.
 remote_theme: olivier3lanc/Jekyll-LibDoc
 plugins:
